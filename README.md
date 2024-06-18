@@ -1,2 +1,2 @@
-# appunti-latex
+# Appunti LaTeX 
 personali appunti LaTeX 
